@@ -10,6 +10,14 @@ body {
   margin-left: auto;
 }
 
+
+.footer {
+  background-color: #EFEFEF;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 .header {
   margin-right: auto;
   margin-left: auto;
