@@ -10,14 +10,6 @@ body {
   margin-left: auto;
 }
 
-
-.footer {
-  background-color: #EFEFEF;
-  text-align: center;
-  margin-right: auto;
-  margin-left: auto;
-}
-
 .header {
   margin-right: auto;
   margin-left: auto;
@@ -27,4 +19,11 @@ body {
   font-family: 'Rock Salt', serif;
   padding-top: 0.6em;
   padding-bottom: 0.0em;
+}
+
+.footer {
+  background-color: #EFEFEF;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
 }
