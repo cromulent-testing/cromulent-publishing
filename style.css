@@ -1,0 +1,22 @@
+body {
+  font-size: 1.4em;
+  font-family: 'Anonymous Pro', serif;';
+}
+
+.container {
+  text-align: center;
+  width: 940px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.header {
+  margin-right: auto;
+  margin-left: auto;
+
+  color: #385691;
+  font-size: 1.8em;
+  font-family: 'Rock Salt', serif;
+  padding-top: 0.6em;
+  padding-bottom: 0.0em;
+}
