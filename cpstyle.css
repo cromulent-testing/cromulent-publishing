@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 1.4em;
+  font-family: 'Anonymous Pro', serif;
+}
+
+.container {
+  text-align: center;
+  width: 640px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.header {
+  margin-right: auto;
+  margin-left: auto;
+
+  color: #385691;
+  font-size: 1.8em;
+  font-family: 'Rock Salt', serif;
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+}
+
+.footer {
+  background-color: #EFEFEF;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+}
