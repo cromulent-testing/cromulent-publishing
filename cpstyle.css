@@ -31,3 +31,19 @@ body {
   margin-right: auto;
   margin-left: auto;
 }
+
+.side-by-side {
+  width: 100%;
+}
+
+.left-side {
+  display: inline-block;
+  width: 40%;
+}
+
+.right-side {
+  display: inline-block;
+  width: 40%;
+
+  text-align: left;
+}
